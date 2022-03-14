@@ -12,7 +12,6 @@ seguida imprima o vetor na tela.
 */
 
 using System;
-using System.Collections.Generic;
 
 class UFF_Lista04_19{
     static void Main(){
