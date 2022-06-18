@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\semaforo_cores\bin\Debug\net5.0\semaforo_cores.exe
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\semaforo_cores\bin\Debug\net5.0\semaforo_cores.deps.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\semaforo_cores\bin\Debug\net5.0\semaforo_cores.runtimeconfig.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\semaforo_cores\bin\Debug\net5.0\semaforo_cores.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\semaforo_cores\bin\Debug\net5.0\semaforo_cores.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\semaforo_cores\bin\Debug\net5.0\ref\semaforo_cores.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\semaforo_cores\bin\Debug\net5.0\semaforo_cores.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\semaforo_cores\obj\Debug\net5.0\semaforo_cores.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\semaforo_cores\obj\Debug\net5.0\semaforo_cores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\semaforo_cores\obj\Debug\net5.0\semaforo_cores.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\semaforo_cores\obj\Debug\net5.0\semaforo_cores.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\semaforo_cores\obj\Debug\net5.0\semaforo_cores.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\semaforo_cores\obj\Debug\net5.0\semaforo_cores.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\semaforo_cores\obj\Debug\net5.0\ref\semaforo_cores.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\semaforo_cores\obj\Debug\net5.0\semaforo_cores.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\semaforo_cores\obj\Debug\net5.0\semaforo_cores.genruntimeconfig.cache

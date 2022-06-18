@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\fatorial\obj\Debug\net5.0\fatorial.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\fatorial\obj\Debug\net5.0\fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\fatorial\obj\Debug\net5.0\fatorial.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\fatorial\obj\Debug\net5.0\fatorial.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\fatorial\obj\Debug\net5.0\fatorial.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\fatorial\bin\Debug\net5.0\fatorial.exe
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\fatorial\bin\Debug\net5.0\fatorial.deps.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\fatorial\bin\Debug\net5.0\fatorial.runtimeconfig.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\fatorial\bin\Debug\net5.0\fatorial.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\fatorial\bin\Debug\net5.0\fatorial.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\fatorial\bin\Debug\net5.0\ref\fatorial.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\fatorial\bin\Debug\net5.0\fatorial.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\fatorial\obj\Debug\net5.0\fatorial.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\fatorial\obj\Debug\net5.0\ref\fatorial.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\fatorial\obj\Debug\net5.0\fatorial.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\fatorial\obj\Debug\net5.0\fatorial.genruntimeconfig.cache

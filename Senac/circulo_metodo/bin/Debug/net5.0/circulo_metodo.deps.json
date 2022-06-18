@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "circulo_metodo/1.0.0": {
+        "runtime": {
+          "circulo_metodo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "circulo_metodo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

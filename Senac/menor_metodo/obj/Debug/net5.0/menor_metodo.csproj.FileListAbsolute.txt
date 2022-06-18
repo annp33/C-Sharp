@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\menor_metodo\bin\Debug\net5.0\menor_metodo.exe
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\menor_metodo\bin\Debug\net5.0\menor_metodo.deps.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\menor_metodo\bin\Debug\net5.0\menor_metodo.runtimeconfig.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\menor_metodo\bin\Debug\net5.0\menor_metodo.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\menor_metodo\bin\Debug\net5.0\menor_metodo.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\menor_metodo\bin\Debug\net5.0\ref\menor_metodo.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\menor_metodo\bin\Debug\net5.0\menor_metodo.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\menor_metodo\obj\Debug\net5.0\menor_metodo.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\menor_metodo\obj\Debug\net5.0\menor_metodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\menor_metodo\obj\Debug\net5.0\menor_metodo.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\menor_metodo\obj\Debug\net5.0\menor_metodo.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\menor_metodo\obj\Debug\net5.0\menor_metodo.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\menor_metodo\obj\Debug\net5.0\menor_metodo.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\menor_metodo\obj\Debug\net5.0\ref\menor_metodo.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\menor_metodo\obj\Debug\net5.0\menor_metodo.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\menor_metodo\obj\Debug\net5.0\menor_metodo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\ex001\obj\Debug\net5.0\ex001.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\ex001\obj\Debug\net5.0\ex001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\ex001\obj\Debug\net5.0\ex001.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\ex001\obj\Debug\net5.0\ex001.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\ex001\obj\Debug\net5.0\ex001.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\ex001\bin\Debug\net5.0\ex001.exe
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\ex001\bin\Debug\net5.0\ex001.deps.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\ex001\bin\Debug\net5.0\ex001.runtimeconfig.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\ex001\bin\Debug\net5.0\ex001.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\ex001\bin\Debug\net5.0\ex001.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\ex001\bin\Debug\net5.0\ref\ex001.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\ex001\bin\Debug\net5.0\ex001.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\ex001\obj\Debug\net5.0\ex001.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\ex001\obj\Debug\net5.0\ref\ex001.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\ex001\obj\Debug\net5.0\ex001.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\ex001\obj\Debug\net5.0\ex001.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "passagem_transporte/1.0.0": {
+        "runtime": {
+          "passagem_transporte.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "passagem_transporte/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

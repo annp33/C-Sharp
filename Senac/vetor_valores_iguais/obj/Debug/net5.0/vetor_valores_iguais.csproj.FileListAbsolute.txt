@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_iguais\obj\Debug\net5.0\vetor_valores_iguais.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_iguais\obj\Debug\net5.0\vetor_valores_iguais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_iguais\obj\Debug\net5.0\vetor_valores_iguais.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_iguais\obj\Debug\net5.0\vetor_valores_iguais.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_iguais\obj\Debug\net5.0\vetor_valores_iguais.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_iguais\bin\Debug\net5.0\vetor_valores_iguais.exe
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_iguais\bin\Debug\net5.0\vetor_valores_iguais.deps.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_iguais\bin\Debug\net5.0\vetor_valores_iguais.runtimeconfig.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_iguais\bin\Debug\net5.0\vetor_valores_iguais.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_iguais\bin\Debug\net5.0\vetor_valores_iguais.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_iguais\bin\Debug\net5.0\ref\vetor_valores_iguais.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_iguais\bin\Debug\net5.0\vetor_valores_iguais.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_iguais\obj\Debug\net5.0\vetor_valores_iguais.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_iguais\obj\Debug\net5.0\ref\vetor_valores_iguais.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_iguais\obj\Debug\net5.0\vetor_valores_iguais.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_iguais\obj\Debug\net5.0\vetor_valores_iguais.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "rendimento_combustivel/1.0.0": {
+        "runtime": {
+          "rendimento_combustivel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "rendimento_combustivel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

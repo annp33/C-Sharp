@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\area_circulo\obj\Debug\net5.0\area_circulo.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\area_circulo\obj\Debug\net5.0\area_circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\area_circulo\obj\Debug\net5.0\area_circulo.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\area_circulo\obj\Debug\net5.0\area_circulo.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\area_circulo\obj\Debug\net5.0\area_circulo.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\area_circulo\bin\Debug\net5.0\area_circulo.exe
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\area_circulo\bin\Debug\net5.0\area_circulo.deps.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\area_circulo\bin\Debug\net5.0\area_circulo.runtimeconfig.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\area_circulo\bin\Debug\net5.0\area_circulo.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\area_circulo\bin\Debug\net5.0\area_circulo.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\area_circulo\bin\Debug\net5.0\ref\area_circulo.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\area_circulo\bin\Debug\net5.0\area_circulo.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\area_circulo\obj\Debug\net5.0\area_circulo.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\area_circulo\obj\Debug\net5.0\ref\area_circulo.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\area_circulo\obj\Debug\net5.0\area_circulo.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\area_circulo\obj\Debug\net5.0\area_circulo.genruntimeconfig.cache

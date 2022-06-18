@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numeros_ordem_decrescente\bin\Debug\net5.0\numeros_ordem_decrescente.exe
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numeros_ordem_decrescente\bin\Debug\net5.0\numeros_ordem_decrescente.deps.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numeros_ordem_decrescente\bin\Debug\net5.0\numeros_ordem_decrescente.runtimeconfig.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numeros_ordem_decrescente\bin\Debug\net5.0\numeros_ordem_decrescente.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numeros_ordem_decrescente\bin\Debug\net5.0\numeros_ordem_decrescente.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numeros_ordem_decrescente\bin\Debug\net5.0\ref\numeros_ordem_decrescente.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numeros_ordem_decrescente\bin\Debug\net5.0\numeros_ordem_decrescente.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numeros_ordem_decrescente\obj\Debug\net5.0\numeros_ordem_decrescente.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numeros_ordem_decrescente\obj\Debug\net5.0\numeros_ordem_decrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numeros_ordem_decrescente\obj\Debug\net5.0\numeros_ordem_decrescente.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numeros_ordem_decrescente\obj\Debug\net5.0\numeros_ordem_decrescente.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numeros_ordem_decrescente\obj\Debug\net5.0\numeros_ordem_decrescente.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numeros_ordem_decrescente\obj\Debug\net5.0\numeros_ordem_decrescente.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numeros_ordem_decrescente\obj\Debug\net5.0\ref\numeros_ordem_decrescente.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numeros_ordem_decrescente\obj\Debug\net5.0\numeros_ordem_decrescente.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numeros_ordem_decrescente\obj\Debug\net5.0\numeros_ordem_decrescente.genruntimeconfig.cache

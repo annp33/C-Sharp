@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\circulo_metodo\obj\Debug\net5.0\circulo_metodo.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\circulo_metodo\obj\Debug\net5.0\circulo_metodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\circulo_metodo\obj\Debug\net5.0\circulo_metodo.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\circulo_metodo\obj\Debug\net5.0\circulo_metodo.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\circulo_metodo\obj\Debug\net5.0\circulo_metodo.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\circulo_metodo\bin\Debug\net5.0\circulo_metodo.exe
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\circulo_metodo\bin\Debug\net5.0\circulo_metodo.deps.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\circulo_metodo\bin\Debug\net5.0\circulo_metodo.runtimeconfig.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\circulo_metodo\bin\Debug\net5.0\circulo_metodo.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\circulo_metodo\bin\Debug\net5.0\circulo_metodo.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\circulo_metodo\bin\Debug\net5.0\ref\circulo_metodo.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\circulo_metodo\bin\Debug\net5.0\circulo_metodo.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\circulo_metodo\obj\Debug\net5.0\circulo_metodo.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\circulo_metodo\obj\Debug\net5.0\ref\circulo_metodo.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\circulo_metodo\obj\Debug\net5.0\circulo_metodo.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\circulo_metodo\obj\Debug\net5.0\circulo_metodo.genruntimeconfig.cache

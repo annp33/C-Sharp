@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\altura_pessoa\obj\Debug\net5.0\altura_pessoa.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\altura_pessoa\obj\Debug\net5.0\altura_pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\altura_pessoa\obj\Debug\net5.0\altura_pessoa.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\altura_pessoa\obj\Debug\net5.0\altura_pessoa.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\altura_pessoa\obj\Debug\net5.0\altura_pessoa.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\altura_pessoa\bin\Debug\net5.0\altura_pessoa.exe
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\altura_pessoa\bin\Debug\net5.0\altura_pessoa.deps.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\altura_pessoa\bin\Debug\net5.0\altura_pessoa.runtimeconfig.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\altura_pessoa\bin\Debug\net5.0\altura_pessoa.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\altura_pessoa\bin\Debug\net5.0\altura_pessoa.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\altura_pessoa\bin\Debug\net5.0\ref\altura_pessoa.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\altura_pessoa\bin\Debug\net5.0\altura_pessoa.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\altura_pessoa\obj\Debug\net5.0\altura_pessoa.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\altura_pessoa\obj\Debug\net5.0\ref\altura_pessoa.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\altura_pessoa\obj\Debug\net5.0\altura_pessoa.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\altura_pessoa\obj\Debug\net5.0\altura_pessoa.genruntimeconfig.cache

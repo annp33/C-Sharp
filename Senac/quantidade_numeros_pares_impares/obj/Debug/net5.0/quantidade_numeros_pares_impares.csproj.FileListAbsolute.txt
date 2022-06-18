@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\quantidade_numeros_pares_impares\obj\Debug\net5.0\quantidade_numeros_pares_impares.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\quantidade_numeros_pares_impares\obj\Debug\net5.0\quantidade_numeros_pares_impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\quantidade_numeros_pares_impares\obj\Debug\net5.0\quantidade_numeros_pares_impares.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\quantidade_numeros_pares_impares\obj\Debug\net5.0\quantidade_numeros_pares_impares.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\quantidade_numeros_pares_impares\obj\Debug\net5.0\quantidade_numeros_pares_impares.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\quantidade_numeros_pares_impares\bin\Debug\net5.0\quantidade_numeros_pares_impares.exe
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\quantidade_numeros_pares_impares\bin\Debug\net5.0\quantidade_numeros_pares_impares.deps.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\quantidade_numeros_pares_impares\bin\Debug\net5.0\quantidade_numeros_pares_impares.runtimeconfig.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\quantidade_numeros_pares_impares\bin\Debug\net5.0\quantidade_numeros_pares_impares.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\quantidade_numeros_pares_impares\bin\Debug\net5.0\quantidade_numeros_pares_impares.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\quantidade_numeros_pares_impares\bin\Debug\net5.0\ref\quantidade_numeros_pares_impares.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\quantidade_numeros_pares_impares\bin\Debug\net5.0\quantidade_numeros_pares_impares.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\quantidade_numeros_pares_impares\obj\Debug\net5.0\quantidade_numeros_pares_impares.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\quantidade_numeros_pares_impares\obj\Debug\net5.0\ref\quantidade_numeros_pares_impares.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\quantidade_numeros_pares_impares\obj\Debug\net5.0\quantidade_numeros_pares_impares.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\quantidade_numeros_pares_impares\obj\Debug\net5.0\quantidade_numeros_pares_impares.genruntimeconfig.cache

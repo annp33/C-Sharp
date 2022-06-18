@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "tres_numeros_ordem_crescente/1.0.0": {
+        "runtime": {
+          "tres_numeros_ordem_crescente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tres_numeros_ordem_crescente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

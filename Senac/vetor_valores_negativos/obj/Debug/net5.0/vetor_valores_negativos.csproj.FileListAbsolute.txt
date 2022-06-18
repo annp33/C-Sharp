@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_negativos\bin\Debug\net5.0\vetor_valores_negativos.exe
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_negativos\bin\Debug\net5.0\vetor_valores_negativos.deps.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_negativos\bin\Debug\net5.0\vetor_valores_negativos.runtimeconfig.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_negativos\bin\Debug\net5.0\vetor_valores_negativos.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_negativos\bin\Debug\net5.0\vetor_valores_negativos.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_negativos\bin\Debug\net5.0\ref\vetor_valores_negativos.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_negativos\bin\Debug\net5.0\vetor_valores_negativos.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_negativos\obj\Debug\net5.0\vetor_valores_negativos.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_negativos\obj\Debug\net5.0\vetor_valores_negativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_negativos\obj\Debug\net5.0\vetor_valores_negativos.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_negativos\obj\Debug\net5.0\vetor_valores_negativos.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_negativos\obj\Debug\net5.0\vetor_valores_negativos.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_negativos\obj\Debug\net5.0\vetor_valores_negativos.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_negativos\obj\Debug\net5.0\ref\vetor_valores_negativos.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_negativos\obj\Debug\net5.0\vetor_valores_negativos.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\vetor_valores_negativos\obj\Debug\net5.0\vetor_valores_negativos.genruntimeconfig.cache

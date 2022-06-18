@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\rendimento_combustivel\obj\Debug\net5.0\rendimento_combustivel.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\rendimento_combustivel\obj\Debug\net5.0\rendimento_combustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\rendimento_combustivel\obj\Debug\net5.0\rendimento_combustivel.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\rendimento_combustivel\obj\Debug\net5.0\rendimento_combustivel.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\rendimento_combustivel\obj\Debug\net5.0\rendimento_combustivel.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\rendimento_combustivel\bin\Debug\net5.0\rendimento_combustivel.exe
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\rendimento_combustivel\bin\Debug\net5.0\rendimento_combustivel.deps.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\rendimento_combustivel\bin\Debug\net5.0\rendimento_combustivel.runtimeconfig.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\rendimento_combustivel\bin\Debug\net5.0\rendimento_combustivel.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\rendimento_combustivel\bin\Debug\net5.0\rendimento_combustivel.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\rendimento_combustivel\bin\Debug\net5.0\ref\rendimento_combustivel.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\rendimento_combustivel\bin\Debug\net5.0\rendimento_combustivel.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\rendimento_combustivel\obj\Debug\net5.0\rendimento_combustivel.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\rendimento_combustivel\obj\Debug\net5.0\ref\rendimento_combustivel.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\rendimento_combustivel\obj\Debug\net5.0\rendimento_combustivel.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\rendimento_combustivel\obj\Debug\net5.0\rendimento_combustivel.genruntimeconfig.cache

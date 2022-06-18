@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\passagem_transporte\obj\Debug\net5.0\passagem_transporte.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\passagem_transporte\obj\Debug\net5.0\passagem_transporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\passagem_transporte\obj\Debug\net5.0\passagem_transporte.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\passagem_transporte\obj\Debug\net5.0\passagem_transporte.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\passagem_transporte\obj\Debug\net5.0\passagem_transporte.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\passagem_transporte\bin\Debug\net5.0\passagem_transporte.exe
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\passagem_transporte\bin\Debug\net5.0\passagem_transporte.deps.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\passagem_transporte\bin\Debug\net5.0\passagem_transporte.runtimeconfig.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\passagem_transporte\bin\Debug\net5.0\passagem_transporte.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\passagem_transporte\bin\Debug\net5.0\passagem_transporte.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\passagem_transporte\bin\Debug\net5.0\ref\passagem_transporte.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\passagem_transporte\bin\Debug\net5.0\passagem_transporte.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\passagem_transporte\obj\Debug\net5.0\passagem_transporte.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\passagem_transporte\obj\Debug\net5.0\ref\passagem_transporte.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\passagem_transporte\obj\Debug\net5.0\passagem_transporte.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\passagem_transporte\obj\Debug\net5.0\passagem_transporte.genruntimeconfig.cache

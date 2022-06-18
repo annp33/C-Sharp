@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numero_bool_metodo\bin\Debug\net5.0\numero_bool_metodo.exe
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numero_bool_metodo\bin\Debug\net5.0\numero_bool_metodo.deps.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numero_bool_metodo\bin\Debug\net5.0\numero_bool_metodo.runtimeconfig.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numero_bool_metodo\bin\Debug\net5.0\numero_bool_metodo.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numero_bool_metodo\bin\Debug\net5.0\numero_bool_metodo.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numero_bool_metodo\bin\Debug\net5.0\ref\numero_bool_metodo.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numero_bool_metodo\bin\Debug\net5.0\numero_bool_metodo.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numero_bool_metodo\obj\Debug\net5.0\numero_bool_metodo.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numero_bool_metodo\obj\Debug\net5.0\numero_bool_metodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numero_bool_metodo\obj\Debug\net5.0\numero_bool_metodo.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numero_bool_metodo\obj\Debug\net5.0\numero_bool_metodo.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numero_bool_metodo\obj\Debug\net5.0\numero_bool_metodo.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numero_bool_metodo\obj\Debug\net5.0\numero_bool_metodo.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numero_bool_metodo\obj\Debug\net5.0\ref\numero_bool_metodo.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numero_bool_metodo\obj\Debug\net5.0\numero_bool_metodo.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Conteúdos\Exercicios_C#\numero_bool_metodo\obj\Debug\net5.0\numero_bool_metodo.genruntimeconfig.cache

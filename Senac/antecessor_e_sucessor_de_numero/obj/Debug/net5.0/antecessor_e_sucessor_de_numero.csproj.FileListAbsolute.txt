@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\antecessor_e_sucessor_de_numero\bin\Debug\net5.0\antecessor_e_sucessor_de_numero.exe
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\antecessor_e_sucessor_de_numero\bin\Debug\net5.0\antecessor_e_sucessor_de_numero.deps.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\antecessor_e_sucessor_de_numero\bin\Debug\net5.0\antecessor_e_sucessor_de_numero.runtimeconfig.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\antecessor_e_sucessor_de_numero\bin\Debug\net5.0\antecessor_e_sucessor_de_numero.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\antecessor_e_sucessor_de_numero\bin\Debug\net5.0\antecessor_e_sucessor_de_numero.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\antecessor_e_sucessor_de_numero\bin\Debug\net5.0\ref\antecessor_e_sucessor_de_numero.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\antecessor_e_sucessor_de_numero\bin\Debug\net5.0\antecessor_e_sucessor_de_numero.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\antecessor_e_sucessor_de_numero\obj\Debug\net5.0\antecessor_e_sucessor_de_numero.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\antecessor_e_sucessor_de_numero\obj\Debug\net5.0\antecessor_e_sucessor_de_numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\antecessor_e_sucessor_de_numero\obj\Debug\net5.0\antecessor_e_sucessor_de_numero.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\antecessor_e_sucessor_de_numero\obj\Debug\net5.0\antecessor_e_sucessor_de_numero.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\antecessor_e_sucessor_de_numero\obj\Debug\net5.0\antecessor_e_sucessor_de_numero.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\antecessor_e_sucessor_de_numero\obj\Debug\net5.0\antecessor_e_sucessor_de_numero.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\antecessor_e_sucessor_de_numero\obj\Debug\net5.0\ref\antecessor_e_sucessor_de_numero.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\antecessor_e_sucessor_de_numero\obj\Debug\net5.0\antecessor_e_sucessor_de_numero.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Desafios_C#\antecessor_e_sucessor_de_numero\obj\Debug\net5.0\antecessor_e_sucessor_de_numero.genruntimeconfig.cache

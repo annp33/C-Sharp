@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\dois_numeros_ordem_crescente\obj\Debug\net5.0\dois_numeros_ordem_crescente.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\dois_numeros_ordem_crescente\obj\Debug\net5.0\dois_numeros_ordem_crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\dois_numeros_ordem_crescente\obj\Debug\net5.0\dois_numeros_ordem_crescente.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\dois_numeros_ordem_crescente\obj\Debug\net5.0\dois_numeros_ordem_crescente.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\dois_numeros_ordem_crescente\obj\Debug\net5.0\dois_numeros_ordem_crescente.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\dois_numeros_ordem_crescente\bin\Debug\net5.0\dois_numeros_ordem_crescente.exe
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\dois_numeros_ordem_crescente\bin\Debug\net5.0\dois_numeros_ordem_crescente.deps.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\dois_numeros_ordem_crescente\bin\Debug\net5.0\dois_numeros_ordem_crescente.runtimeconfig.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\dois_numeros_ordem_crescente\bin\Debug\net5.0\dois_numeros_ordem_crescente.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\dois_numeros_ordem_crescente\bin\Debug\net5.0\dois_numeros_ordem_crescente.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\dois_numeros_ordem_crescente\bin\Debug\net5.0\ref\dois_numeros_ordem_crescente.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\dois_numeros_ordem_crescente\bin\Debug\net5.0\dois_numeros_ordem_crescente.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\dois_numeros_ordem_crescente\obj\Debug\net5.0\dois_numeros_ordem_crescente.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\dois_numeros_ordem_crescente\obj\Debug\net5.0\ref\dois_numeros_ordem_crescente.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\dois_numeros_ordem_crescente\obj\Debug\net5.0\dois_numeros_ordem_crescente.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC3 - Monitorar projetos de aplicações web\Conteúdos\Exercicios_C#\dois_numeros_ordem_crescente\obj\Debug\net5.0\dois_numeros_ordem_crescente.genruntimeconfig.cache
