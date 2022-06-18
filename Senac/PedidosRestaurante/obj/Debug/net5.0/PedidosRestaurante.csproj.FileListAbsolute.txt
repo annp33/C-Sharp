@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Atividade 1\Atividade_1_-_Ana_Paula_Irineu\PedidosRestaurante\bin\Debug\net5.0\PedidosRestaurante.exe
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Atividade 1\Atividade_1_-_Ana_Paula_Irineu\PedidosRestaurante\bin\Debug\net5.0\PedidosRestaurante.deps.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Atividade 1\Atividade_1_-_Ana_Paula_Irineu\PedidosRestaurante\bin\Debug\net5.0\PedidosRestaurante.runtimeconfig.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Atividade 1\Atividade_1_-_Ana_Paula_Irineu\PedidosRestaurante\bin\Debug\net5.0\PedidosRestaurante.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Atividade 1\Atividade_1_-_Ana_Paula_Irineu\PedidosRestaurante\bin\Debug\net5.0\PedidosRestaurante.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Atividade 1\Atividade_1_-_Ana_Paula_Irineu\PedidosRestaurante\bin\Debug\net5.0\ref\PedidosRestaurante.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Atividade 1\Atividade_1_-_Ana_Paula_Irineu\PedidosRestaurante\bin\Debug\net5.0\PedidosRestaurante.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Atividade 1\Atividade_1_-_Ana_Paula_Irineu\PedidosRestaurante\obj\Debug\net5.0\PedidosRestaurante.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Atividade 1\Atividade_1_-_Ana_Paula_Irineu\PedidosRestaurante\obj\Debug\net5.0\PedidosRestaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Atividade 1\Atividade_1_-_Ana_Paula_Irineu\PedidosRestaurante\obj\Debug\net5.0\PedidosRestaurante.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Atividade 1\Atividade_1_-_Ana_Paula_Irineu\PedidosRestaurante\obj\Debug\net5.0\PedidosRestaurante.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Atividade 1\Atividade_1_-_Ana_Paula_Irineu\PedidosRestaurante\obj\Debug\net5.0\PedidosRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Atividade 1\Atividade_1_-_Ana_Paula_Irineu\PedidosRestaurante\obj\Debug\net5.0\PedidosRestaurante.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Atividade 1\Atividade_1_-_Ana_Paula_Irineu\PedidosRestaurante\obj\Debug\net5.0\ref\PedidosRestaurante.dll
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Atividade 1\Atividade_1_-_Ana_Paula_Irineu\PedidosRestaurante\obj\Debug\net5.0\PedidosRestaurante.pdb
+C:\Users\PICHAU\Documents\ANA\Senac\UC5 - Codificar aplicações web\Atividade 1\Atividade_1_-_Ana_Paula_Irineu\PedidosRestaurante\obj\Debug\net5.0\PedidosRestaurante.genruntimeconfig.cache
